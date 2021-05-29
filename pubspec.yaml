@@ -9,8 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  audioplayer2:
 
   cupertino_icons: ^0.1.2
+  audioplayers_with_rate: ^1.0.2
 
 dev_dependencies:
   flutter_test:
@@ -21,5 +23,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/
+    - asset/
 
